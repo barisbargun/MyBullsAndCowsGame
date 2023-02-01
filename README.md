@@ -1,2 +1,2 @@
 # main.java 
-includes codes that i've wroten for bulls and cows game
+includes codes that i've written for bulls and cows game
